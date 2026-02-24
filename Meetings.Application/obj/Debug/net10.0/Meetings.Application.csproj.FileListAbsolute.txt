@@ -1,0 +1,17 @@
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Application.deps.json
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Application.dll
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Application.pdb
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Domain.dll
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Domain.pdb
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.csproj.AssemblyReference.cache
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.AssemblyInfoInputs.cache
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.AssemblyInfo.cs
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.csproj.CoreCompileInputs.cache
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.B1EA0839.Up2Date
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.dll
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/refint/Meetings.Application.dll
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/Meetings.Application.pdb
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/obj/Debug/net10.0/ref/Meetings.Application.dll
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Infrastructure.dll
+/Users/al3a8eb/Business/Products/Meetings/backend/Meetings.Application/bin/Debug/net10.0/Meetings.Infrastructure.pdb
